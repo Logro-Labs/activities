@@ -1,4 +1,4 @@
-# Activity Title
+# Title: Activity Title
 
 Description of the task/group of tasks.
 
